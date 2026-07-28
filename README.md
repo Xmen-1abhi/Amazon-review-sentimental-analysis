@@ -8,3 +8,5 @@ Analyzed public opinion from reviews to classify sentiment as Positive, Negative
 ## How to Run
 pip install -r requirements.txt
 streamlit run main.py
+**Live Demo**
+https://amazon-review-sentimental-analysis-mcertcukpfnxayrcsxlecd.streamlit.app
